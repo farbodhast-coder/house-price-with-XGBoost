@@ -227,7 +227,7 @@ GitHub: [@farbodhast-coder](https://github.com/farbodhast-coder)
 ## 📧 Contact & Support
 
 - Issues: [GitHub Issues](https://github.com/farbodhast-coder/house-price-with-XGBoost/issues)
-- Email: your.email@example.com
+- Email: farbodhast@gmail.com
 
 ## 🙏 Acknowledgments
 
