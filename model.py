@@ -6,7 +6,7 @@ from sklearn.metrics import mean_absolute_error, mean_squared_error, r2_score
 import xgboost as xgb
 
 # Load your CSV file
-df = pd.read_csv('h_p.csv')
+df = pd.read_csv('dataset_HousePrice.csv')
 
 # Display first few rows to verify
 print("Data loaded successfully!")
